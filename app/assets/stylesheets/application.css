@@ -16,6 +16,7 @@ body {
   border-radius: 5px;
   padding: 10px;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .alert-success{
@@ -25,4 +26,5 @@ body {
   border-radius: 5px;
   padding: 10px;
   margin-bottom: 15px;
+  text-align: center;
 }
